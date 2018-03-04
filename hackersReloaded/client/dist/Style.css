@@ -1,0 +1,32 @@
+body {
+  background: url(bcklogo.png);
+  background-position: center, no-repeat;
+  background-size: 1540px, 1000px;
+}
+
+#Title {
+  font-family: fantasy;
+  color: DarkGoldenRod;
+  text-align: center;
+  font-size: 90px;
+  font-style: oblique;
+  font-variant: normal;
+}
+
+#Logo {
+  width: 180px;
+  height: 150px;
+}
+
+#Search {
+  position: absolute;
+  right: 50px;
+  top: 50px;
+}
+
+#Subtitle {
+  font-family: cursive;
+  color: Maroon;
+  text-align: center;
+  font-size: 30px;
+}
